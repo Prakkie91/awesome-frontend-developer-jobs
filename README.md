@@ -13,7 +13,6 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aeadxji1ji1odjlxqmsp.webp" width="24" height="24" alt="Ashby logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ashby](https://jobo.world/company/Ashby)
 
 * **[Backend Engineer (Remote)](https://jobs.ashbyhq.com/reteam/714121ad-59e8-49b1-ad56-244a89de574c)** — _n/a_ _(posted 2025-03-12)_
-* **[Engineer Who Can Design - Americas](https://jobs.ashbyhq.com/ashby/145ff46b-1441-4773-bcd3-c8c90baa598a)** — ¤170,000 – ¤260,000 USD _(posted 2025-03-12)_
 * **[Design Engineer - Americas](https://jobs.ashbyhq.com/ashby/579e9d03-0724-482b-a42a-8e5e80d73405)** — ¤170,000 – ¤260,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ex51fd3wt4w9cnurc1wy.webp" width="24" height="24" alt="Biorender logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Biorender](https://jobo.world/company/Biorender)
@@ -236,6 +235,10 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 
 * **[Staff Software Engineer (UX/Frontend)](https://boards.greenhouse.io/propel/jobs/7600732002)** — _n/a_ _(posted 2025-03-14)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tckn4lxm8tiyawnuibs4.webp" width="24" height="24" alt="Protegrity logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Protegrity](https://jobo.world/company/Protegrity)
+
+* **[Lead Software Engineer -Full stack  675](https://jobs.ashbyhq.com/protegrity/348cd2b9-0f85-49fa-a900-4fcd61f0239e)** — ¤160,000 – ¤180,000 USD _(posted 2025-06-12)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kwnmkx7jqw3p2e6t0isk.webp" width="24" height="24" alt="Quora logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Quora](https://jobo.world/company/Quora)
 
 * **[Senior Software Engineer - Developer Tools, Poe (Remote)](https://jobs.ashbyhq.com/quora/16c24472-7381-4f24-9faa-975f40f7a326)** — _n/a_ _(posted 2025-06-06)_
@@ -338,4 +341,4 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 * **[Senior Software Engineer, Optimize](https://job-boards.greenhouse.io/webflow/jobs/6693211)** — ¤132,050 – ¤207,100 USD _(posted 2025-05-01)_
 
 ---
-_Updated automatically — 2025-06-16_
+_Updated automatically — 2025-06-17_

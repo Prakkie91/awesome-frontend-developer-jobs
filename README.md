@@ -83,6 +83,7 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 
 * **[Website Engineer ](https://jobs.ashbyhq.com/elevenlabs/20476dac-9e9d-4a34-9b84-8cf97b7cc35e)** — _n/a_ _(posted 2025-03-12)_
 * **[Full-Stack Engineer (Front-End Leaning)](https://jobs.ashbyhq.com/elevenlabs/ada7cd2c-8b9f-4f19-a88b-7c2ca1be1fde)** — _n/a_ _(posted 2025-03-12)_
+* **[Engineer (Back-End)](https://jobs.ashbyhq.com/elevenlabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f)** — _n/a_ _(posted 2025-03-12)_
 * **[Forward Deployed Engineer](https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6)** — _n/a_ _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bbxuubh94fioiil7vbun.webp" width="24" height="24" alt="Embrace logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Embrace](https://jobo.world/company/Embrace)
@@ -114,10 +115,6 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 
 * **[Senior Backend Engineer](https://job-boards.greenhouse.io/forethought/jobs/5542008004)** — ¤130,000 – ¤210,000 USD _(posted 2025-05-16)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qckr2hkie9ma9akysexx.webp" width="24" height="24" alt="Forward Financing logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Forward Financing](https://jobo.world/company/Forward-Financing)
-
-* **[Engineering Manager](https://jobs.ashbyhq.com%2Fforward%2520financing%2F725c4339-42fa-41e6-8e97-85de5e05e4ea)** — _n/a_ _(posted 2025-03-29)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/axruduxnqug3eoqn0chh.webp" width="24" height="24" alt="FreshBooks logo" style="vertical-align:middle"/>&nbsp;&nbsp;[FreshBooks](https://jobo.world/company/FreshBooks)
 
 * **[Staff Engineer, Web Operations](https://jobs.smartrecruiters.com/Freshworks/744000061683915-staff-engineer-web-operations?oga=true)** — _n/a_ _(posted 2025-05-27)_
@@ -146,6 +143,10 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 
 * **[Senior Software Engineer](https://jobs.ashbyhq.com/ironcladhq/b640b3f3-4dd4-47eb-ab3c-1911535e3573)** — ¤160,000 – ¤175,000 USD _(posted 2025-03-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjgangrpf64vx7s78vmf.webp" width="24" height="24" alt="Jellyfish logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jellyfish](https://jobo.world/company/Jellyfish)
+
+* **[Staff Full Stack Engineer](https://jobs.ashbyhq.com/jellyfish/5357b6d1-bc12-4d7b-afda-81c14bd2538f)** — _n/a_ _(posted 2025-03-12)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lvwq9crawrrfibndxzho.webp" width="24" height="24" alt="Keeper Security logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keeper Security](https://jobo.world/company/Keeper-Security)
 
 * **[Senior Software Engineer, Web Vault (Frontend)](https://apply.workable.com/keepersecurity/j/B4A5DD88B7/)** — _n/a_ _(posted 2025-06-11)_
@@ -159,11 +160,6 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 
 * **[Senior Software Engineer - Frontend - Payments](https://jobs.ashbyhq.com/kraken.com/48d8008a-165a-4280-bb39-553cef3c33b2)** — ¤135,000 – ¤203,000 USD _(posted 2025-05-06)_
 * **[Senior Software Engineer - Frontend - Growth Insights](https://jobs.ashbyhq.com/kraken.com/8fb11ece-0b31-4ebd-8837-f010abbe6dd9)** — ¤127,000 – ¤203,000 USD _(posted 2025-04-17)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/c1quzk9ztnguozq9gkd5.webp" width="24" height="24" alt="Kustomer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kustomer](https://jobo.world/company/Kustomer)
-
-* **[Software Engineer, Full Stack (Platform Engineering) ](https://jobs.ashbyhq.com/kustomer/39215821-1704-4ff1-9b49-165b26f15978)** — _n/a_ _(posted 2025-04-18)_
-* **[Software Engineer, Full Stack - Product Engineering ](https://jobs.ashbyhq.com/kustomer/5ba76c4f-5002-4ef5-8c15-9ae06e4f68ae)** — _n/a_ _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jwxdgigobys7pie3h5ns.webp" width="24" height="24" alt="LaunchDarkly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[LaunchDarkly](https://jobo.world/company/LaunchDarkly)
 
@@ -216,6 +212,10 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mvi4ljeaebdhijrpbciu.webp" width="24" height="24" alt="Pear VC logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Pear VC](https://jobo.world/company/PearVC)
 
 * **[Senior Frontend Engineer (Endless Commerce)](https://jobs.ashbyhq.com/pear/3cf2006a-a67f-4476-bf38-9d55338bf678)** — _n/a_ _(posted 2025-03-12)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xtpksjlzjjnextpxet98.webp" width="24" height="24" alt="PlayStation Global logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PlayStation Global](https://jobo.world/company/PlayStation-Global)
+
+* **[Senior UI Engineer](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5565523004)** — _n/a_ _(posted 2025-06-21)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/medp37fwznxooodxhybc.webp" width="24" height="24" alt="Privy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Privy](https://jobo.world/company/Privy)
 
@@ -335,4 +335,4 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 * **[Senior Software Engineer, Optimize](https://job-boards.greenhouse.io/webflow/jobs/6693211)** — ¤132,050 – ¤207,100 USD _(posted 2025-05-01)_
 
 ---
-_Updated automatically — 2025-06-21_
+_Updated automatically — 2025-06-22_

@@ -338,4 +338,4 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 * **[Senior Software Engineer, Optimize](https://job-boards.greenhouse.io/webflow/jobs/6693211)** — ¤132,050 – ¤207,100 USD _(posted 2025-05-01)_
 
 ---
-_Updated automatically — 2025-06-23_
+_Updated automatically — 2025-06-24_

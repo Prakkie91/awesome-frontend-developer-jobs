@@ -110,6 +110,7 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gjruly2mmfhjz3muesax.webp" width="24" height="24" alt="Foodsmart logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Foodsmart](https://jobo.world/company/Foodsmart)
 
+* **[Software Engineer - Backend](https://jobs.lever.co/foodsmart/f12a9eaa-55ae-4398-a383-9555c5410f71)** — _n/a_ _(posted 2025-06-13)_
 * **[Senior Software Engineer - Fullstack](https://jobs.lever.co/foodsmart/83abdeb2-fbb3-499c-9948-052f3755856b)** — _n/a_ _(posted 2025-05-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/axruduxnqug3eoqn0chh.webp" width="24" height="24" alt="FreshBooks logo" style="vertical-align:middle"/>&nbsp;&nbsp;[FreshBooks](https://jobo.world/company/FreshBooks)
@@ -230,10 +231,6 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 * **[Software Engineer, Full Stack (Platform) ](https://jobs.ashbyhq.com/radai/c1149a4e-8c78-4731-8398-46c0b6c6d28d)** — ¤125,000 – ¤150,000 USD _(posted 2025-06-19)_
 * **[Software Engineer, Full Stack ](https://jobs.ashbyhq.com/radai/13ccec43-7bc0-4fc6-bec2-2df2d8cb7448)** — ¤125,000 – ¤150,000 USD _(posted 2025-04-30)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/m3j6ycjwoy1gskwpws1y.webp" width="24" height="24" alt="Ramp logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ramp](https://jobo.world/company/Ramp)
-
-* **[Web Engineer | Growth Marketing](https://jobs.ashbyhq.com/ramp/dbec16c5-4fa8-4e3e-84b2-e57ae8b4918a)** — ¤131,800 – ¤181,200 USD _(posted 2025-03-12)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ensgjxchya3m8sf9hyym.webp" width="24" height="24" alt="ReadMe logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ReadMe](https://jobo.world/company/ReadMe)
 
 * **[Back End Engineer](https://jobs.ashbyhq.com/readme/2cfb7c47-b9a6-400f-88c2-583772877741)** — _n/a_ _(posted 2025-03-12)_
@@ -332,4 +329,4 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 * **[Senior Software Engineer, Optimize](https://job-boards.greenhouse.io/webflow/jobs/6693211)** — ¤132,050 – ¤207,100 USD _(posted 2025-05-01)_
 
 ---
-_Updated automatically — 2025-06-27_
+_Updated automatically — 2025-06-28_

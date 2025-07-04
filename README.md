@@ -21,6 +21,7 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pudwuuka8ejmvqkrh7cz.webp" width="24" height="24" alt="Calendly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Calendly](https://jobo.world/company/Calendly)
 
+* **[Full Stack Engineer, Contact Management](https://job-boards.greenhouse.io/calendly/jobs/7972058002)** — _n/a_ _(posted 2025-07-03)_
 * **[Senior Full Stack Engineer](https://boards.greenhouse.io/calendly/jobs/7967935002)** — _n/a_ _(posted 2025-04-23)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o3acj3q6bo0xyuhtz8zv.webp" width="24" height="24" alt="Cars Commerce logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cars Commerce](https://jobo.world/company/Cars-Commerce)
@@ -64,8 +65,13 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 
 * **[Software Engineer II (Front-End)](https://job-boards.greenhouse.io/demandbase/jobs/6901652)** — _n/a_ _(posted 2025-05-21)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uy3ifw1k0xtbsujpqhns.webp" width="24" height="24" alt="Dick's Sporting Goods logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dick's Sporting Goods](https://jobo.world/company/Dicks-Sporting-Goods)
+
+* **[Senior Software Engineer - UI (REMOTE)](https://dickssportinggoods.wd1.myworkdayjobs.com/dsg/job/Remote---US/Senior-Software-Engineer---UI--REMOTE-_202510027)** — _n/a_ _(posted 2025-07-01)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjk0q1dyjqqswplpttmj.webp" width="24" height="24" alt="Discord logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Discord](https://jobo.world/company/Discord)
 
+* **[Staff Software Engineer - UI and Interactions (Full-Stack)](https://job-boards.greenhouse.io/discord/jobs/8058456002)** — _n/a_ _(posted 2025-07-02)_
 * **[Staff Software Engineer – UI/UX &amp; Animations](https://job-boards.greenhouse.io/discord/jobs/7854326002)** — _n/a_ _(posted 2025-04-02)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hgirylfmfxfcdsc1odvb.webp" width="24" height="24" alt="doola logo" style="vertical-align:middle"/>&nbsp;&nbsp;[doola](https://jobo.world/company/doola)
@@ -115,10 +121,6 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gjruly2mmfhjz3muesax.webp" width="24" height="24" alt="Foodsmart logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Foodsmart](https://jobo.world/company/Foodsmart)
 
 * **[Senior Software Engineer - Fullstack](https://jobs.lever.co/foodsmart/83abdeb2-fbb3-499c-9948-052f3755856b)** — _n/a_ _(posted 2025-05-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/axruduxnqug3eoqn0chh.webp" width="24" height="24" alt="FreshBooks logo" style="vertical-align:middle"/>&nbsp;&nbsp;[FreshBooks](https://jobo.world/company/FreshBooks)
-
-* **[Staff Engineer, Web Operations](https://jobs.smartrecruiters.com/Freshworks/744000061683915-staff-engineer-web-operations?oga=true)** — _n/a_ _(posted 2025-05-27)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kwqvzeivla8e5znv7cvw.webp" width="24" height="24" alt="Built Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Built Technologies](https://jobo.world/company/getbuilt)
 
@@ -198,7 +200,6 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mvi4ljeaebdhijrpbciu.webp" width="24" height="24" alt="Pear VC logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Pear VC](https://jobo.world/company/PearVC)
 
 * **[Senior Frontend Engineer (Endless Commerce)](https://jobs.ashbyhq.com/pear/3cf2006a-a67f-4476-bf38-9d55338bf678)** — _n/a_ _(posted 2025-03-12)_
-* **[Founding Engineer - Float](https://jobs.ashbyhq.com/pear/7c8a1600-d9b9-4954-a957-b31cfcc8e6bb)** — _n/a_ _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/medp37fwznxooodxhybc.webp" width="24" height="24" alt="Privy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Privy](https://jobo.world/company/Privy)
 
@@ -321,9 +322,5 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 * **[Staff Software Engineer, Developer Productivity](https://job-boards.greenhouse.io/webflow/jobs/6929034)** — ¤154,160 – ¤247,690 USD _(posted 2025-06-03)_
 * **[Senior Software Engineer, Optimize](https://job-boards.greenhouse.io/webflow/jobs/6693211)** — ¤132,050 – ¤207,100 USD _(posted 2025-05-01)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhqibdnquwo92evqovb3.webp" width="24" height="24" alt="Workday logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Workday](https://jobo.world/company/Workday)
-
-* **[Senior Backend Engineer](https://jobs.ashbyhq.com%2Fwordly.ai%2520careers%2F987710c3-9c37-43d0-9381-26f751d22237)** — _n/a_ _(posted 2025-05-10)_
-
 ---
-_Updated automatically — 2025-07-03_
+_Updated automatically — 2025-07-04_

@@ -113,6 +113,10 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 
 * **[Product Engineer - Front End](https://jobs.ashbyhq.com/flatfile/09ad0a9d-8382-4609-93f8-d11c6a52369c)** — ¤180,000 – ¤200,000 USD _(posted 2025-05-21)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uahhexcojokfohmfosnd.webp" width="24" height="24" alt="Flex logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flex](https://jobo.world/company/Flex)
+
+* **[Senior Software Engineer, Fullstack](https://job-boards.greenhouse.io/flex/jobs/4584212005)** — _n/a_ _(posted 2025-07-09)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
 
 * **[Senior Software Engineer, Video Frontend](https://jobs.ashbyhq.com%2Fflock%2520safety%2F5fcfc0eb-f13d-4341-8325-1e9f1baf87f6)** — ¤171,000 – ¤190,000 USD _(posted 2025-04-24)_
@@ -174,11 +178,14 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yxlnu2oiwrtwttay1hqs.webp" width="24" height="24" alt="Mixpanel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mixpanel](https://jobo.world/company/Mixpanel)
 
 * **[Software Engineer, Fullstack](https://job-boards.greenhouse.io/mixpanel/jobs/3920890)** — _n/a_ _(posted 2025-07-08)_
-* **[Senior Software Engineer, Fullstack](https://job-boards.greenhouse.io/mixpanel/jobs/3920931)** — _n/a_ _(posted 2025-06-25)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vuz34tir7i8nhrgxio7i.webp" width="24" height="24" alt="Modern Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Modern Health](https://jobo.world/company/Modern-Health)
 
 * **[Staff Software Engineer (Full-Stack with Front-End Focus)](https://job-boards.greenhouse.io/modernhealth/jobs/7277020002)** — _n/a_ _(posted 2025-05-08)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhkqlmin9hu3z85qyabt.webp" width="24" height="24" alt="Mozilla logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mozilla](https://jobo.world/company/Mozilla)
+
+* **[Engineering Manager, Firefox Desktop](https://job-boards.greenhouse.io/mozilla/jobs/7055765)** — _n/a_ _(posted 2025-07-09)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ulxecyskdcgen6dxyaci.webp" width="24" height="24" alt="Northbeam logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Northbeam](https://jobo.world/company/Northbeam)
 
@@ -195,7 +202,6 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mvi4ljeaebdhijrpbciu.webp" width="24" height="24" alt="Pear VC logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Pear VC](https://jobo.world/company/PearVC)
 
 * **[Senior Frontend Engineer (Endless Commerce)](https://jobs.ashbyhq.com/pear/3cf2006a-a67f-4476-bf38-9d55338bf678)** — _n/a_ _(posted 2025-03-12)_
-* **[Founding Engineer - Float](https://jobs.ashbyhq.com/pear/7c8a1600-d9b9-4954-a957-b31cfcc8e6bb)** — _n/a_ _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/medp37fwznxooodxhybc.webp" width="24" height="24" alt="Privy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Privy](https://jobo.world/company/Privy)
 
@@ -323,4 +329,4 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 * **[Senior Backend Engineer](https://jobs.ashbyhq.com%2Fwordly.ai%2520careers%2F987710c3-9c37-43d0-9381-26f751d22237)** — _n/a_ _(posted 2025-05-10)_
 
 ---
-_Updated automatically — 2025-07-09_
+_Updated automatically — 2025-07-10_

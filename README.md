@@ -10,13 +10,13 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 
 * **[Senior Software Engineer](https://job-boards.greenhouse.io/affinipay1/jobs/4566326006)** — _n/a_ _(posted 2025-05-09)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xjv7yomvmvgq2zcdvckv.webp" width="24" height="24" alt="Affirm logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Affirm](https://jobo.world/company/Affirm)
-
-* **[Senior Staff Software Engineer, Fullstack (Consumer App Experience)](https://job-boards.greenhouse.io/affirm/jobs/6336790003)** — _n/a_ _(posted 2025-03-30)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rhksuz0w6frlhe8x8d9x.webp" width="24" height="24" alt="Aiwyn logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aiwyn](https://jobo.world/company/Aiwyn)
 
 * **[Staff Angular Software Engineer](https://jobs.lever.co/aiwyn/c380dd37-e949-4b32-b79a-6af82d842eb9)** — _n/a_ _(posted 2025-07-15)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ytq0iq1fcp579zoqmu0w.webp" width="24" height="24" alt="Aledade logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aledade](https://jobo.world/company/Aledade)
+
+* **[Senior Software Engineer II](https://jobs.lever.co/aledade/edc8a276-b206-4a6e-a747-b0bc7272c144)** — _n/a_ _(posted 2025-07-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kcq8nfjtqwqarugh1srl.webp" width="24" height="24" alt="Angel Studios logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Angel Studios](https://jobo.world/company/Angel-Studios)
 
@@ -192,10 +192,6 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 
 * **[Senior Software Engineer](https://jobs.ashbyhq.com/ironcladhq/b640b3f3-4dd4-47eb-ab3c-1911535e3573)** — ¤160,000 – ¤175,000 USD _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
-
-* **[Software Engineer I (San Francisco)](https://jobs.ashbyhq.com/jerry/f53d2639-f7ad-4aa5-b17a-08f4e5a00882)** — _n/a_ _(posted 2025-07-15)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ratwa3kr7uy5rlny0zky.webp" width="24" height="24" alt="Jobber logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jobber](https://jobo.world/company/Jobber)
 
 * **[Staff Software Engineer](https://job-boards.greenhouse.io/jobber/jobs/7973786002)** — _n/a_ _(posted 2025-04-26)_
@@ -222,10 +218,6 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 * **[Automation Engineer, UI Quality Assurance (Remote)](https://jobs.ashbyhq.com/machinify/00b016d2-8209-4b2c-826c-2c67f909711e)** — _n/a_ _(posted 2025-05-31)_
 * **[Staff Software Engineer - UI (Remote)](https://jobs.ashbyhq.com/machinify/9c2e9c17-91bd-450e-84c4-8345c0d17166)** — _n/a_ _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/a0i1dqpsb8pul0fdfku9.webp" width="24" height="24" alt="Maxar Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Maxar Technologies](https://jobo.world/company/MaxarTech)
-
-* **[Full Stack Software Engineer (TS or CBP BI)](https://maxar.wd1.myworkdayjobs.com/maxar/job/Remote-United-States/Full-Stack-Software-Engineer--TS-or-CBP-BI-_R22342-1)** — _n/a_ _(posted 2025-05-23)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w2dz2cahnjcntso7vhoz.webp" width="24" height="24" alt="Mercury logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mercury](https://jobo.world/company/Mercury)
 
 * **[Frontend Engineer - Creative Products](https://job-boards.greenhouse.io/mercury/jobs/5569890004)** — _n/a_ _(posted 2025-06-24)_
@@ -245,6 +237,14 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhi0btjeoioa7qgotnxx.webp" width="24" height="24" alt="Nutrafol logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Nutrafol](https://jobo.world/company/Nutrafol)
 
 * **[Apply here to join Nutrafol&#x27;s Talent Community!](https://job-boards.greenhouse.io/nutrafol/jobs/4385354005)** — _n/a_ _(posted 2025-04-26)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wxdvxnvmgfynvcvm4zpo.webp" width="24" height="24" alt="Omada Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Omada Health](https://jobo.world/company/Omada-Health)
+
+* **[Software Engineer, Android](https://job-boards.greenhouse.io/omadahealth/jobs/6913171)** — _n/a_ _(posted 2025-07-19)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mtjdghbxvseizkan336m.webp" width="24" height="24" alt="OpenAI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OpenAI](https://jobo.world/company/OpenAI)
+
+* **[Front End Software Engineer, Marketing](https://jobs.ashbyhq.com/openai/9474c7ba-cdaf-4d32-8484-b850d0e42d65)** — ¤255,000 – ¤405,000 USD _(posted 2025-07-19)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cfkrdvfno6d3mhdsouhn.webp" width="24" height="24" alt="Opendoor logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Opendoor](https://jobo.world/company/Opendoor)
 
@@ -362,4 +362,4 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 * **[Staff Software Engineer, Frontend Web Platform](https://jobs.ashbyhq.com/zip/d2113256-4cac-4c46-afaf-a8824a22b38a)** — _n/a_ _(posted 2025-07-15)_
 
 ---
-_Updated automatically — 2025-07-19_
+_Updated automatically — 2025-07-20_

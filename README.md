@@ -362,4 +362,4 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 * **[Staff Software Engineer, Frontend Web Platform](https://jobs.ashbyhq.com/zip/d2113256-4cac-4c46-afaf-a8824a22b38a)** — _n/a_ _(posted 2025-07-15)_
 
 ---
-_Updated automatically — 2025-07-20_
+_Updated automatically — 2025-07-22_

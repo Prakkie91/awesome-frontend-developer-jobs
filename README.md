@@ -69,10 +69,6 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 
 * **[Software Engineer, Growth](https://jobs.ashbyhq.com/character/60d095ee-aaaf-4ac1-b624-2c7388c331c6)** — ¤150,000 – ¤300,000 USD _(posted 2025-05-24)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/id82rffdtflzgytga1hv.webp" width="24" height="24" alt="Chronosphere logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Chronosphere](https://jobo.world/company/Chronosphere)
-
-* **[Member of Technical Staff, Frontend - Storage](https://jobs.ashbyhq.com/chronospherejobs/242337e3-a5b5-4f1e-b993-1ddc1127a1f6)** — ¤200,000 – ¤250,000 USD _(posted 2025-06-14)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcrsxaub94nntp5gtnjk.webp" width="24" height="24" alt="Clickhouse logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clickhouse](https://jobo.world/company/Clickhouse)
 
 * **[Senior Front End Engineer - HyperDX](https://job-boards.greenhouse.io/clickhouse/jobs/5482336004)** — _n/a_ _(posted 2025-03-30)_
@@ -87,6 +83,7 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 
 * **[Sr. Front End Engineer - Filters (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Sr-Front-End-Engineer---Filters--Remote-_R23756)** — _n/a_ _(posted 2025-07-15)_
 * **[Sr. Engineer - Front End SDET (Remote, PST)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Sr-Engineer---Front-End-SDET--Remote--PST-_R23836)** — _n/a_ _(posted 2025-07-09)_
+* **[Sr. UI Visualization Front End Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Sr-UI-Visualization-Front-End-Engineer--Remote-_R23528)** — _n/a_ _(posted 2025-06-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/v13qsi5yj0mn7o2emyf8.webp" width="24" height="24" alt="Dagster Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dagster Labs](https://jobo.world/company/Dagster-Labs)
 
@@ -353,4 +350,4 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 * **[Staff Software Engineer, Frontend Web Platform](https://jobs.ashbyhq.com/zip/d2113256-4cac-4c46-afaf-a8824a22b38a)** — _n/a_ _(posted 2025-07-15)_
 
 ---
-_Updated automatically — 2025-07-23_
+_Updated automatically — 2025-07-24_

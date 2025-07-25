@@ -11,6 +11,10 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 * **[Staff Angular Software Engineer](https://jobs.lever.co/aiwyn/c380dd37-e949-4b32-b79a-6af82d842eb9)** — _n/a_ _(posted 2025-07-15)_
 * **[Frontend Engineer](https://jobs.lever.co/aiwyn/5e0b9c71-997c-40c7-a5d4-670495877e5b)** — _n/a_ _(posted 2025-05-27)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ytq0iq1fcp579zoqmu0w.webp" width="24" height="24" alt="Aledade logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aledade](https://jobo.world/company/Aledade)
+
+* **[Senior Software Engineer II](https://jobs.lever.co/aledade/edc8a276-b206-4a6e-a747-b0bc7272c144)** — _n/a_ _(posted 2025-07-18)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kcq8nfjtqwqarugh1srl.webp" width="24" height="24" alt="Angel Studios logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Angel Studios](https://jobo.world/company/Angel-Studios)
 
 * **[Senior Front End Software Engineer](https://jobs.lever.co/angel/5d976fee-a72e-49d7-8a26-ba2dca027e29)** — _n/a_ _(posted 2025-07-21)_
@@ -27,6 +31,7 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fhsbwfck9brhwntjbb9f.webp" width="24" height="24" alt="Assembled logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Assembled](https://jobo.world/company/Assembled)
 
 * **[UX Engineer](https://jobs.ashbyhq.com/assembledhq/b1e813b8-cead-458a-9a55-090ad371b372)** — ¤145,000 – ¤245,000 USD _(posted 2025-03-12)_
+* **[Software Engineer - Forecasting & Scheduling](https://jobs.ashbyhq.com/assembledhq/e95be58c-ac92-4b2c-9812-cecdbdecee55)** — ¤150,000 – ¤300,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fwm8dxmzloxo62iyyecy.webp" width="24" height="24" alt="Bastion logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bastion](https://jobo.world/company/Bastion)
 
@@ -82,7 +87,6 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
 * **[Sr. Front End Engineer - Filters (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Sr-Front-End-Engineer---Filters--Remote-_R23756)** — _n/a_ _(posted 2025-07-15)_
-* **[Sr. Engineer - Front End SDET (Remote, PST)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Sr-Engineer---Front-End-SDET--Remote--PST-_R23836)** — _n/a_ _(posted 2025-07-09)_
 * **[Sr. UI Visualization Front End Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Sr-UI-Visualization-Front-End-Engineer--Remote-_R23528)** — _n/a_ _(posted 2025-06-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/v13qsi5yj0mn7o2emyf8.webp" width="24" height="24" alt="Dagster Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dagster Labs](https://jobo.world/company/Dagster-Labs)
@@ -96,6 +100,10 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e6q2rqxidfkrkn9dkpth.webp" width="24" height="24" alt="Demandbase logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Demandbase](https://jobo.world/company/Demand-Base)
 
 * **[Software Engineer II (Front-End)](https://job-boards.greenhouse.io/demandbase/jobs/6901652)** — _n/a_ _(posted 2025-05-21)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uy3ifw1k0xtbsujpqhns.webp" width="24" height="24" alt="Dick's Sporting Goods logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dick's Sporting Goods](https://jobo.world/company/Dicks-Sporting-Goods)
+
+* **[Software Engineer II - Mobile Android (REMOTE)](https://dickssportinggoods.wd1.myworkdayjobs.com/dsg/job/Remote---US/Software-Engineer-II---Mobile-Android--REMOTE-_202510949)** — _n/a_ _(posted 2025-07-07)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjk0q1dyjqqswplpttmj.webp" width="24" height="24" alt="Discord logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Discord](https://jobo.world/company/Discord)
 
@@ -118,10 +126,6 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bbxuubh94fioiil7vbun.webp" width="24" height="24" alt="Embrace logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Embrace](https://jobo.world/company/Embrace)
 
 * **[UI &amp; SDK Web Engineer](https://job-boards.greenhouse.io/embrace/jobs/5564021004)** — _n/a_ _(posted 2025-06-13)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lqw8d7dsbdz83ashcjls.webp" width="24" height="24" alt="Endpoint Clinical logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Endpoint Clinical](https://jobo.world/company/Endpoint-Clinical)
-
-* **[Senior Software Developer, Product](https://jobs.lever.co/endpointclinical/c89da1cb-a04f-4061-9b2f-da8f9c10a32d)** — _n/a_ _(posted 2024-07-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/argzwcefwksmmvpljfhj.webp" width="24" height="24" alt="Feather logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Feather](https://jobo.world/company/Feather)
 
@@ -252,10 +256,6 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 
 * **[Senior Frontend Engineer (Endless Commerce)](https://jobs.ashbyhq.com/pear/3cf2006a-a67f-4476-bf38-9d55338bf678)** — _n/a_ _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fieozdkgodqccwlxz8fy.webp" width="24" height="24" alt="Planet logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Planet](https://jobo.world/company/Planet)
-
-* **[Software Engineer, Integration Platform](https://job-boards.greenhouse.io/planetlabs/jobs/6815124)** — _n/a_ _(posted 2025-06-13)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ib0iibxjlot26z7k9sjs.webp" width="24" height="24" alt="Prevail Legal logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Prevail Legal](https://jobo.world/company/PrevailLegal)
 
 * **[Mid-Level Full Stack Developer (Ruby on Rails)](https://boards.greenhouse.io/prevail/jobs/4553411008)** — ¤120,000 – ¤160,000 USD _(posted 2025-03-14)_
@@ -350,4 +350,4 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 * **[Staff Software Engineer, Frontend Web Platform](https://jobs.ashbyhq.com/zip/d2113256-4cac-4c46-afaf-a8824a22b38a)** — _n/a_ _(posted 2025-07-15)_
 
 ---
-_Updated automatically — 2025-07-24_
+_Updated automatically — 2025-07-25_

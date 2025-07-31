@@ -41,10 +41,6 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 * **[Software Engineer](https://jobs.smartrecruiters.com/Believe/744000072053526-software-engineer)** — _n/a_ _(posted 2025-07-22)_
 * **[Software Engineer](https://jobs.smartrecruiters.com/Believe/744000071341965-software-engineer?oga=true)** — _n/a_ _(posted 2025-07-17)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/anthlwqnh3ckdkwq7uvi.webp" width="24" height="24" alt="BigCommerce logo" style="vertical-align:middle"/>&nbsp;&nbsp;[BigCommerce](https://jobo.world/company/BigCommerce)
-
-* **[Software Engineer II - Hybrid](https://bigcommerce.wd12.myworkdayjobs.com/bigcommerce/job/United-States---Remote/Software-Engineer-II---Hybrid_JR102122)** — _n/a_ _(posted 2025-06-20)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ex51fd3wt4w9cnurc1wy.webp" width="24" height="24" alt="Biorender logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Biorender](https://jobo.world/company/Biorender)
 
 * **[Senior Software Engineer](https://jobs.ashbyhq.com/biorender/6c128198-f890-4aac-a266-164a7221ac34)** — _n/a_ _(posted 2025-03-12)_
@@ -266,7 +262,6 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oupqrzklqnqeu7s2rlp7.webp" width="24" height="24" alt="Rad AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rad AI](https://jobo.world/company/Rad-AI)
 
 * **[Software Engineer, Full Stack ](https://jobs.ashbyhq.com/radai/13ccec43-7bc0-4fc6-bec2-2df2d8cb7448)** — ¤125,000 – ¤150,000 USD _(posted 2025-04-30)_
-* **[Senior Software Engineer, Audio](https://jobs.ashbyhq.com/radai/a14a16ef-6a3d-40c1-aace-46776af1b2d3)** — ¤145,000 – ¤190,000 USD _(posted 2025-04-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/m3j6ycjwoy1gskwpws1y.webp" width="24" height="24" alt="Ramp logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ramp](https://jobo.world/company/Ramp)
 
@@ -275,6 +270,10 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mdqj75zkufregvxkop0f.webp" width="24" height="24" alt="Rescale logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rescale](https://jobo.world/company/Rescale)
 
 * **[Principal Angular Developer](https://job-boards.greenhouse.io/regscale/jobs/4726043007)** — _n/a_ _(posted 2025-05-06)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpnegihud3dkfip35hd9.webp" width="24" height="24" alt="SentiLink logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SentiLink](https://jobo.world/company/SentiLink)
+
+* **[Full Stack Engineer](https://jobs.ashbyhq.com/sentilink/ec10e262-075e-495e-8533-0d069911a754)** — _n/a_ _(posted 2025-07-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dchccft73peyjb9awdqi.webp" width="24" height="24" alt="Serve Robotics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Serve Robotics](https://jobo.world/company/Serve-Robotics)
 
@@ -288,6 +287,10 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 
 * **[Frontend Engineer - AI Dev Experience](https://job-boards.greenhouse.io/superblocks/jobs/4590748005)** — _n/a_ _(posted 2025-07-29)_
 * **[Software Engineer - Frontend Platform](https://boards.greenhouse.io/superblocks/jobs/4024363005)** — ¤170,000 – ¤210,000 USD _(posted 2025-03-14)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/l2atgbjd7w67rocymbfk.webp" width="24" height="24" alt="Tapcart logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tapcart](https://jobo.world/company/Tapcart)
+
+* **[React Developer, App Studio Solutions](https://jobs.ashbyhq.com/tapcart/1dff5d31-4e73-4b96-8a83-1abfba1d8b52)** — ¤120,000 – ¤140,000 USD _(posted 2025-07-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ahsjqugyjx4tcjp1ao6j.webp" width="24" height="24" alt="Teachable logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Teachable](https://jobo.world/company/Teachable)
 
@@ -335,4 +338,4 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 * **[Staff Software Engineer, Frontend Web Platform](https://jobs.ashbyhq.com/zip/d2113256-4cac-4c46-afaf-a8824a22b38a)** — _n/a_ _(posted 2025-07-15)_
 
 ---
-_Updated automatically — 2025-07-30_
+_Updated automatically — 2025-07-31_

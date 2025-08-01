@@ -15,6 +15,11 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 * **[Staff Angular Software Engineer](https://jobs.lever.co/aiwyn/c380dd37-e949-4b32-b79a-6af82d842eb9)** — _n/a_ _(posted 2025-07-15)_
 * **[Frontend Engineer](https://jobs.lever.co/aiwyn/5e0b9c71-997c-40c7-a5d4-670495877e5b)** — _n/a_ _(posted 2025-05-27)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ytq0iq1fcp579zoqmu0w.webp" width="24" height="24" alt="Aledade logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aledade](https://jobo.world/company/Aledade)
+
+* **[Senior Software Engineer II- Front End](https://jobs.lever.co/aledade/c9362c0d-ef39-44e9-b715-8d440c8bb94d)** — _n/a_ _(posted 2025-07-30)_
+* **[Senior Software Engineer I, Front End](https://jobs.lever.co/aledade/2f0e9e4d-a943-4b95-baa3-47bb98f2d5fd)** — _n/a_ _(posted 2025-07-30)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kcq8nfjtqwqarugh1srl.webp" width="24" height="24" alt="Angel Studios logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Angel Studios](https://jobo.world/company/Angel-Studios)
 
 * **[Senior Front End Software Engineer](https://jobs.lever.co/angel/5d976fee-a72e-49d7-8a26-ba2dca027e29)** — _n/a_ _(posted 2025-07-21)_
@@ -32,6 +37,10 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 
 * **[UX Engineer](https://jobs.ashbyhq.com/assembledhq/b1e813b8-cead-458a-9a55-090ad371b372)** — ¤145,000 – ¤245,000 USD _(posted 2025-03-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gs61rxdb5anhhiq0hy2b.webp" width="24" height="24" alt="AuditBoard logo" style="vertical-align:middle"/>&nbsp;&nbsp;[AuditBoard](https://jobo.world/company/AuditBoard)
+
+* **[Software Engineer II - Full Stack, Core Data (Remote)](https://jobs.ashbyhq.com/auditboard/e69d4b2f-be95-4375-88f0-728145f43c5d)** — ¤104,000 – ¤156,000 USD _(posted 2025-07-31)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fwm8dxmzloxo62iyyecy.webp" width="24" height="24" alt="Bastion logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bastion](https://jobo.world/company/Bastion)
 
 * **[Frontend Engineer](https://jobs.ashbyhq.com/bastion/fe460b7c-5080-4667-9164-5be2078ca33d)** — ¤200,000 – ¤260,000 USD _(posted 2025-07-14)_
@@ -40,14 +49,6 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 
 * **[Software Engineer](https://jobs.smartrecruiters.com/Believe/744000072053526-software-engineer)** — _n/a_ _(posted 2025-07-22)_
 * **[Software Engineer](https://jobs.smartrecruiters.com/Believe/744000071341965-software-engineer?oga=true)** — _n/a_ _(posted 2025-07-17)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ex51fd3wt4w9cnurc1wy.webp" width="24" height="24" alt="Biorender logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Biorender](https://jobo.world/company/Biorender)
-
-* **[Senior Software Engineer](https://jobs.ashbyhq.com/biorender/6c128198-f890-4aac-a266-164a7221ac34)** — _n/a_ _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dncml0pjrfuppesov22t.webp" width="24" height="24" alt="Bitcoin Depot logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bitcoin Depot](https://jobo.world/company/Bitcoin-Depot)
-
-* **[Senior Software Engineer - Full Stack](https://job-boards.greenhouse.io/bitcoindepot/jobs/6319599003)** — _n/a_ _(posted 2025-04-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mdhnl2gwcg6rtvdfwtqv.webp" width="24" height="24" alt="Bonterra logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bonterra](https://jobo.world/company/Bonterra)
 
@@ -82,6 +83,7 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
+* **[Frontend Engineer Intern - Fall 2025 (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Frontend-Engineer-Intern---Fall-2025--Remote--CAN-_R24199)** — _n/a_ _(posted 2025-07-30)_
 * **[Sr. Engineer - Front End SDET (East Coast, Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer---Front-End-SDET--Remote--PST-_R23837)** — _n/a_ _(posted 2025-07-25)_
 * **[Front-End Engineer, Accessibility Specialist (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-VA/Front-End-Engineer--Accessibility-Specialist--Remote-_R23593)** — _n/a_ _(posted 2025-07-23)_
 * **[Sr. Engineer - Front End SDET (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer---Front-End-SDET--Remote-_R24030)** — _n/a_ _(posted 2025-07-22)_
@@ -234,10 +236,6 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 
 * **[Software Engineer IV  - API/UI](https://jobs.lever.co/openx/dd0dc6b8-8889-4496-a824-1ec36894e929)** — _n/a_ _(posted 2025-07-23)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/l4bo4rdk0efiqvvzos5y.webp" width="24" height="24" alt="Oura logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Oura](https://jobo.world/company/Oura)
-
-* **[Engineering Manager- Commerce](https://apply.workable.com/oura-health-ltd/j/55D3FB9566/)** — ¤162,000 – ¤162,000 USD _(posted 2025-06-30)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zvn1ylulhsyyowqu95ym.webp" width="24" height="24" alt="PatientPoint logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PatientPoint](https://jobo.world/company/PatientPoint)
 
 * **[Join Our Talent Community](https://job-boards.greenhouse.io/patientpoint/jobs/4243761005)** — _n/a_ _(posted 2025-03-30)_
@@ -259,12 +257,9 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 * **[Senior Software Engineer - Developer Productivity, Poe (Remote)](https://jobs.ashbyhq.com/quora/0b36c43d-a27b-4434-97d4-0e9c25c5879d)** — _n/a_ _(posted 2025-06-19)_
 * **[Senior Software Engineer - Developer Tools, Poe (Remote)](https://jobs.ashbyhq.com/quora/16c24472-7381-4f24-9faa-975f40f7a326)** — _n/a_ _(posted 2025-06-06)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oupqrzklqnqeu7s2rlp7.webp" width="24" height="24" alt="Rad AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rad AI](https://jobo.world/company/Rad-AI)
-
-* **[Software Engineer, Full Stack ](https://jobs.ashbyhq.com/radai/13ccec43-7bc0-4fc6-bec2-2df2d8cb7448)** — ¤125,000 – ¤150,000 USD _(posted 2025-04-30)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/m3j6ycjwoy1gskwpws1y.webp" width="24" height="24" alt="Ramp logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ramp](https://jobo.world/company/Ramp)
 
+* **[Senior Design-Engineer | Design Systems Tooling](https://jobs.ashbyhq.com/ramp/84d4a0a3-f629-4fac-acaa-63437029043f)** — ¤159,100 – ¤218,800 USD _(posted 2025-07-31)_
 * **[Senior Design-Engineer | Design Systems Tooling](https://jobs.ashbyhq.com/ramp/ae76707c-d766-48c2-ac43-b8ecb4e1ddac)** — ¤159,100 – ¤218,800 USD _(posted 2025-07-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mdqj75zkufregvxkop0f.webp" width="24" height="24" alt="Rescale logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rescale](https://jobo.world/company/Rescale)
@@ -325,10 +320,6 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 * **[Partner Solutions Engineer](https://job-boards.greenhouse.io/vercel/jobs/5553789004)** — _n/a_ _(posted 2025-07-15)_
 * **[Software Engineer, Accounts](https://job-boards.greenhouse.io/vercel/jobs/5438229004)** — _n/a_ _(posted 2025-04-15)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rmuhownmxnjzgpakcg3h.webp" width="24" height="24" alt="Webflow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Webflow](https://jobo.world/company/Webflow)
-
-* **[Senior Software Engineer, Optimize](https://job-boards.greenhouse.io/webflow/jobs/6693211)** — ¤132,050 – ¤207,100 USD _(posted 2025-05-01)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gfujrrwvqpdfryjn0v15.webp" width="24" height="24" alt="Weedmaps logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Weedmaps](https://jobo.world/company/Weedmaps)
 
 * **[Interested in future Tech positions? (Engineering, IT, Data, Product, Design)](https://boards.greenhouse.io/weedmaps77/jobs/6331266002)** — _n/a_ _(posted 2025-03-14)_
@@ -338,4 +329,4 @@ Browse a wide range of remote Frontend Developer positions available globally. N
 * **[Staff Software Engineer, Frontend Web Platform](https://jobs.ashbyhq.com/zip/d2113256-4cac-4c46-afaf-a8824a22b38a)** — _n/a_ _(posted 2025-07-15)_
 
 ---
-_Updated automatically — 2025-07-31_
+_Updated automatically — 2025-08-01_
